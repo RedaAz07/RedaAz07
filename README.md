@@ -1,28 +1,51 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <!-- TypeScript -->
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+
+  <!-- Next.js -->
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+
+  <!-- Tailwind CSS -->
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+
+  <!-- GraphQL -->
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+
+  <!-- Go -->
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+
+  <!-- SQL -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="sql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+
+  <!-- Laravel -->
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+
+  <!-- React -->
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+
+  <!-- PHP -->
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
+  <img width="12" />
+
+  <!-- MongoDB -->
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
 </div>
+
 
 ###
 
