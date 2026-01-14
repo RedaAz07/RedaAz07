@@ -18,8 +18,8 @@
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
   <img width="12" />
     <!-- Rust -->
-  <img src="https://skillicons.dev/icons?i=Rust" height="60" alt="Rust logo" />
-  <img width="12" />
+<img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust logo">
+    <img width="12" />
 
   <!-- Go -->
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
