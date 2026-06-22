@@ -1,5 +1,7 @@
-<h1 align="center">everything start with println!("Hello Word")</h1>
-
+<h1 align="center">Hi there, I'm Reda Anniz! 👋</h1>
+<h3>👨‍💻 Junior Full-Stack Developer in Training @ Zone01 Oujda
+</h3>
+<p>I am a passionate coder and problem-solver currently honing my craft at Zone01 Oujda. My journey is driven by a deep curiosity for how things work under the hood and a relentless motivation to transition from a Junior to a Senior Developer. I thrive on complex challenges and am always eager to collaborate on innovative projects.</p>
 ###
 <div align="center">
   <!-- TypeScript -->
