@@ -1,8 +1,5 @@
-<h1 align="center">Hi there, I'm Reda Anniz! 👋</h1>
-<h3>👨‍💻 Junior Full-Stack Developer in Training @ Zone01 Oujda
-</h3>
-<p>I am a passionate coder and problem-solver currently honing my craft at Zone01 Oujda. My journey is driven by a deep curiosity for how things work under the hood and a relentless motivation to transition from a Junior to a Senior Developer. I thrive on complex challenges and am always eager to collaborate on innovative projects.</p>
-###
+<h1 align="center">85%</h1>
+<h1 align="center"> Always learning, always growing  </h1>
 <div align="center">
   <!-- TypeScript -->
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
@@ -47,34 +44,26 @@
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
   <img width="12" />
 
+
+
   <!-- MongoDB -->
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
+
+   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="php logo" />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="php logo" />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="php logo" />
+  <img width="12" />
 </div>
 
 
-###
-
-<div align="center"><a href="google.com">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  height="25" alt="linkedin logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
