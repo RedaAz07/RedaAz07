@@ -1,13 +1,18 @@
 <h1 align="center">85%</h1>
 
+
+
 <div align="center">
 
-
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=50&lines=Software+Developer;Backend+%26+Frontend;Java Developer;Always+learning;always+growing..." alt="Typing SVG" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Software+Developer;Backend+%26+Frontend;Java+Developer;Always+learning%2C+always+growing..."
+      alt="Typing SVG"
+    />
+  </a>
 
 </div>
+
 
 <div align="center">
 
