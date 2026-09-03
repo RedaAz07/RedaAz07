@@ -75,9 +75,10 @@
 
 <div align="center">
 
-  <a href="https://github.com/RedaAz07">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedaAz07&theme=tokyo-night&hide_border=true" alt="Reda's GitHub Activity Graph" width="100%" />
-  </a>
+
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=50&lines=Software+Developer;Backend+%26+Frontend;Java Developer;Always+learning;always+growing..." alt="Typing SVG" />
+</a>
 
 </div>
 
