@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1492 Commits
+                            1511 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -180,14 +180,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.9847656523063" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="435.9847656523063" y="0" width="5.462061966156193" height="8" fill="#fedf5b"/>
-                    <rect mask="url(#languages-bar)" x="441.44682761846246" y="0" width="5.402349232027628" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="446.8491768504901" y="0" width="4.889151040175398" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="451.7383278906655" y="0" width="2.421801408489731" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="454.16012929915524" y="0" width="2.2271278263179415" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="456.3872571254732" y="0" width="1.9770480111801019" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.36430513665334" y="0" width="1.6356948633467154" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.3886036427597" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="435.3886036427597" y="0" width="5.480393465130854" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="440.86899710789055" y="0" width="5.454593187211268" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="446.32359029510184" y="0" width="5.394962103787908" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="451.71855239888976" y="0" width="2.418489857013275" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="454.137042255903" y="0" width="2.238268376504016" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="456.375310632407" y="0" width="1.9743446118685413" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.34965524427554" y="0" width="1.6503447557244573" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -195,6 +195,12 @@
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Java
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -207,12 +213,6 @@
                             <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Java
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -279,7 +279,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.95
+                            Average per day at ~0.94
                         </div>
                     </section>
                 </div>
@@ -1263,6 +1263,11 @@
                         </g>
                         <g transform="translate(44.199999999999996, 26)">
                             <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
